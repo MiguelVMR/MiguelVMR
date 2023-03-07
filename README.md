@@ -19,7 +19,6 @@
     
 </div>
 
-![Snake animation](https://github.com/MiguelVMR/MiguelVMR/blob/output/github-contribution-grid-snake.svg)
 
 
 
